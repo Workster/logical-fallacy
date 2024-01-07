@@ -1,4 +1,4 @@
-# Online Logical Lallacy Detectors, Datasets and Tools
+# Online Logical Fallacy Detectors, Datasets and Tools
 
 ## Online Logical Lallacy Detectors
 
